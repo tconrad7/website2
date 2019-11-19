@@ -1,0 +1,31 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #00008B;
+	text-decoration: underline;
+}
+
+a:hover {
+  color: #4169e1;
+}
+
+body{
+	background-color:white;
+	background-image: url("background.png");
+	font-family: "Comics Sans MS", Helvetica, sans-serif;
+	font-size: 14px;
+	color: black;
+}
+h1{
+	color:#00008B;
+	font-size: 48px;
+	font-family: "Lexend Exa";
+}
+h2{
+	color:#1E90FF;
+	font-size: 24px;
+}
